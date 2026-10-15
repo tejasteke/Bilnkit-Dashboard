@@ -4,11 +4,11 @@ An interactive Power BI dashboard analysing grocery outlet performance for Blink
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to understand **where and what Blinkit sells** and how outlet characteristics (size, tier, type, age) influence total sales. The dashboard is fully interactive: selecting an **Outlet Size** or **Outlet Type** re-filters every visual and KPI card.
 
-## 📊 Key Metrics (All Outlets)
+##  Key Metrics (All Outlets)
 
 | KPI | Value |
 |---|---|
@@ -17,12 +17,12 @@ The goal of this project is to understand **where and what Blinkit sells** and h
 | Number of Items | 8,523 |
 | Average Rating | 3.92 ★ |
 
-## 🧰 Tools & Skills
+##  Tools & Skills
 
 - **Power BI Desktop** — data modelling, DAX measures, interactive visuals, slicers
 - Data cleaning and transformation (Power Query)
 
-## 🖥️ Dashboard Components
+##  Dashboard Components
 
 - **KPI cards** – Total Sales, Avg Sales, No. of Items, Avg Rating
 - **Sum of Sales by Item Type and Outlet Location Type** – stacked bar chart (Tier 1 / 2 / 3)
@@ -33,7 +33,7 @@ The goal of this project is to understand **where and what Blinkit sells** and h
 - **Outlet Size** – donut chart (High / Medium / Small)
 - **Slicers** – Outlet Size and Outlet Type (Grocery Store, Supermarket Type 1/2/3)
 
-## 💡 Insights
+##  Insights
 
 ### Overall (no filter)
 
@@ -61,7 +61,7 @@ The goal of this project is to understand **where and what Blinkit sells** and h
 - There are **6 outlets**.
 - Total sales: **₹507.9K**.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── Blinkit_Dashboard.pbix     # Power BI report file
@@ -69,16 +69,16 @@ The goal of this project is to understand **where and what Blinkit sells** and h
 └── README.md
 ```
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file and open it in **Power BI Desktop**.
 2. Use the **Outlet Size** and **Outlet Type** slicers to filter the dashboard.
 3. Hover over any chart for detailed tooltips.
 
-## 👤 Author
+##  Author
 
 **Tejas** — aspiring Data Analyst
-🌐 Portfolio: [tejasteke.github.io](https://tejasteke.github.io)
+ Portfolio: [tejasteke.github.io](https://tejasteke.github.io)
 
 ---
 
