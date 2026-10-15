@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Dashboard (Power BI)
+#  Blinkit Sales Dashboard (Power BI)
 
 An interactive Power BI dashboard analysing grocery outlet performance for Blinkit — sales by item type, outlet location, outlet size, outlet type, fat content and outlet establishment year.
 
@@ -82,5 +82,5 @@ The goal of this project is to understand **where and what Blinkit sells** and h
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+ If you found this project useful, consider giving it a star!
 "# Bilnkit-Dashboard" 
